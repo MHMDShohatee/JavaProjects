@@ -1,10 +1,10 @@
 # Casino Minigames:
 
-**Heads or Tails
+**Heads or Tails**
 
-**Cee Lo
+**Cee Lo**
 
-**Slot Machine
+**Slot Machine**
 
 
 >(Created Using Java)
