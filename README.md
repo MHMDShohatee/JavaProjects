@@ -7,4 +7,4 @@
 **Slot Machine**
 
 
-(Created Using Java)
+*(Created Using Java)*
