@@ -1,6 +1,7 @@
 # JavaProjects
 
-#Casino Minigames:
+# Casino Minigames:
+
 Heads or Tails
 Cee Lo
 Slot Machine
